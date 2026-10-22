@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Programming-Languages/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Programming-Languages?style=flat-square&logo=github" alt="GitHub stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Programming-Languages/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Programming-Languages?style=flat-square&logo=github" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Programming-Languages/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Programming-Languages?style=flat-square&logo=github" alt="GitHub forks" /></a>
   <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square" alt="License: MIT" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Programming-Languages/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome" /></a>
@@ -83,99 +83,99 @@ The following table catalogs the leading commercial environments, ranked in **de
 
 ## 🔓 Open-Source GitHub Projects (Sorted by Stars)
 
-The following repositories represent the open-source foundations of modern technical computing. Repositories are strictly sorted in **descending order by GitHub stargazers count**. Each entry features an interactive star badge directly linking to the repository's stargazers page.
+The following repositories represent the open-source foundations of modern technical computing. Repositories are strictly sorted in **descending order by GitHub stargazers count**. Each entry features an interactive Stars_Badge directly linking to the repository's stargazers page.
 
-### 1. **[Rust](https://github.com/rust-lang/rust)** [![GitHub stars](https://img.shields.io/github/stars/rust-lang/rust?style=social&color=white)](https://github.com/rust-lang/rust/stargazers)
+### 1. **[Rust](https://github.com/rust-lang/rust)** [![GitHub_Stars](https://img.shields.io/github/stars/rust-lang/rust?style=social&color=white)](https://github.com/rust-lang/rust/stargazers)
 - **License**: MIT / Apache-2.0
 - **Ecosystem Role**: High-performance systems programming language providing memory safety without garbage collection.
 - **Scientific Impact**: Increasingly used to write blazingly fast numerical foundations, SIMD-accelerated array libraries (e.g., `ndarray`), BLAS/LAPACK bindings, and memory-safe physics engines. Acts as the high-speed backend for Python and Julia extensions.
 
-### 2. **[Python (Scientific Stack)](https://github.com/python/cpython)** [![GitHub stars](https://img.shields.io/github/stars/python/cpython?style=social&color=white)](https://github.com/python/cpython/stargazers)
+### 2. **[Python (Scientific Stack)](https://github.com/python/cpython)** [![GitHub_Stars](https://img.shields.io/github/stars/python/cpython?style=social&color=white)](https://github.com/python/cpython/stargazers)
 - **License**: Python Software Foundation (PSF) License
 - **Ecosystem Role**: The general-purpose language with the world's largest scientific, AI, and data engineering ecosystem.
 - **Scientific Impact**: Underpins modern machine learning and data science through NumPy, SciPy, pandas, and PyTorch. Known trade-off: ecosystem fragmentation across competing array types (NumPy vs. PyTorch vs. JAX) and symbolic incompatibilities (SymPy objects vs. primitive numeric buffers).
 
-### 3. **[Julia](https://github.com/JuliaLang/julia)** [![GitHub stars](https://img.shields.io/github/stars/JuliaLang/julia?style=social&color=white)](https://github.com/JuliaLang/julia/stargazers)
+### 3. **[Julia](https://github.com/JuliaLang/julia)** [![GitHub_Stars](https://img.shields.io/github/stars/JuliaLang/julia?style=social&color=white)](https://github.com/JuliaLang/julia/stargazers)
 - **License**: MIT License
 - **Ecosystem Role**: High-performance dynamic language designed specifically for technical, numerical, and scientific computing.
 - **Scientific Impact**: Solves the notorious "two-language problem" by compiling dynamic code to LLVM machine code at C-like speed via multiple dispatch. Native differential equation solving (`DifferentialEquations.jl`), unified symbolic-numeric modeling (`ModelingToolkit.jl`), and seamless automatic differentiation.
 
-### 4. **[NumPy](https://github.com/numpy/numpy)** [![GitHub stars](https://img.shields.io/github/stars/numpy/numpy?style=social&color=white)](https://github.com/numpy/numpy/stargazers)
+### 4. **[NumPy](https://github.com/numpy/numpy)** [![GitHub_Stars](https://img.shields.io/github/stars/numpy/numpy?style=social&color=white)](https://github.com/numpy/numpy/stargazers)
 - **License**: BSD-3-Clause
 - **Ecosystem Role**: The universal N-dimensional array standard for numerical computing in Python.
 - **Scientific Impact**: Provides contiguous memory striding, vectorized broadcasting, and C/Fortran API integration. All major Python data and ML frameworks depend directly on NumPy array protocols.
 
-### 5. **[Mojo](https://github.com/modular/modular)** [![GitHub stars](https://img.shields.io/github/stars/modular/modular?style=social&color=white)](https://github.com/modular/modular/stargazers)
+### 5. **[Mojo](https://github.com/modular/modular)** [![GitHub_Stars](https://img.shields.io/github/stars/modular/modular?style=social&color=white)](https://github.com/modular/modular/stargazers)
 - **License**: Modular Community License / Open Source Components
 - **Ecosystem Role**: A new programming language bridging the simplicity of Python with the hardware performance of C++ and MLIR.
 - **Scientific Impact**: Built by the creators of LLVM and Swift to accelerate AI systems, high-throughput numerical modeling, and heterogeneous GPU/CPU tensor hardware execution.
 
-### 6. **[Taichi](https://github.com/taichi-dev/taichi)** [![GitHub stars](https://img.shields.io/github/stars/taichi-dev/taichi?style=social&color=white)](https://github.com/taichi-dev/taichi/stargazers)
+### 6. **[Taichi](https://github.com/taichi-dev/taichi)** [![GitHub_Stars](https://img.shields.io/github/stars/taichi-dev/taichi?style=social&color=white)](https://github.com/taichi-dev/taichi/stargazers)
 - **License**: Apache-2.0
 - **Ecosystem Role**: Domain-specific language embedded in Python for high-performance, parallel physical simulation and computer graphics.
 - **Scientific Impact**: JIT-compiles Python-like code into multi-threaded CPU instructions and GPU kernels (CUDA, Metal, Vulkan), making material point methods, fluid dynamics, and grid simulations accessible without C++/CUDA boilerplate.
 
-### 7. **[Nim](https://github.com/nim-lang/Nim)** [![GitHub stars](https://img.shields.io/github/stars/nim-lang/Nim?style=social&color=white)](https://github.com/nim-lang/Nim/stargazers)
+### 7. **[Nim](https://github.com/nim-lang/Nim)** [![GitHub_Stars](https://img.shields.io/github/stars/nim-lang/Nim?style=social&color=white)](https://github.com/nim-lang/Nim/stargazers)
 - **License**: MIT License
 - **Ecosystem Role**: Statically typed compiled systems language combining Python-like expressiveness with C++ execution performance.
 - **Scientific Impact**: Highly suitable for scientific modeling, deterministic memory management without garbage collection pauses (ARC/ORC), and matrix mathematics via libraries like `arraymancer`.
 
-### 8. **[SciPy](https://github.com/scipy/scipy)** [![GitHub stars](https://img.shields.io/github/stars/scipy/scipy?style=social&color=white)](https://github.com/scipy/scipy/stargazers)
+### 8. **[SciPy](https://github.com/scipy/scipy)** [![GitHub_Stars](https://img.shields.io/github/stars/scipy/scipy?style=social&color=white)](https://github.com/scipy/scipy/stargazers)
 - **License**: BSD-3-Clause
 - **Ecosystem Role**: Core scientific library providing fundamental algorithms for mathematics, science, and engineering in Python.
 - **Scientific Impact**: Implements numerical integration (`scipy.integrate`), continuous/discrete optimization (`scipy.optimize`), signal processing, Fourier transforms, eigenvalue solvers, and statistical probability distributions.
 
-### 9. **[SymPy](https://github.com/sympy/sympy)** [![GitHub stars](https://img.shields.io/github/stars/sympy/sympy?style=social&color=white)](https://github.com/sympy/sympy/stargazers)
+### 9. **[SymPy](https://github.com/sympy/sympy)** [![GitHub_Stars](https://img.shields.io/github/stars/sympy/sympy?style=social&color=white)](https://github.com/sympy/sympy/stargazers)
 - **License**: BSD-3-Clause
 - **Ecosystem Role**: Full-featured computer algebra system (CAS) written in pure Python.
 - **Scientific Impact**: Capable of symbolic integration, algebraic equation solving, calculus, discrete mathematics, and quantum mechanics calculations. Achieves over 95.1% integration success rates in benchmark testing without external proprietary C-runtimes.
 
-### 10. **[Lean 4](https://github.com/leanprover/lean4)** [![GitHub stars](https://img.shields.io/github/stars/leanprover/lean4?style=social&color=white)](https://github.com/leanprover/lean4/stargazers)
+### 10. **[Lean 4](https://github.com/leanprover/lean4)** [![GitHub_Stars](https://img.shields.io/github/stars/leanprover/lean4?style=social&color=white)](https://github.com/leanprover/lean4/stargazers)
 - **License**: Apache-2.0
 - **Ecosystem Role**: Interactive theorem prover and pure functional programming language based on the Calculus of Inductive Constructions.
 - **Scientific Impact**: Rapidly becoming the global foundation for formalized mathematics (e.g., the *Mathlib* project), verified software development, and AI-assisted automated reasoning in pure mathematics.
 
-### 11. **[Racket](https://github.com/racket/racket)** [![GitHub stars](https://img.shields.io/github/stars/racket/racket?style=social&color=white)](https://github.com/racket/racket/stargazers)
+### 11. **[Racket](https://github.com/racket/racket)** [![GitHub_Stars](https://img.shields.io/github/stars/racket/racket?style=social&color=white)](https://github.com/racket/racket/stargazers)
 - **License**: Apache-2.0 / MIT
 - **Ecosystem Role**: General-purpose, multi-paradigm programming language in the Lisp/Scheme family with industrial language-oriented programming facilities.
 - **Scientific Impact**: Heavily utilized for programming language research, symbolic computation, macros, domain-specific languages (DSLs), and algebraic logic modeling.
 
-### 12. **[Glasgow Haskell Compiler (GHC)](https://github.com/ghc/ghc)** [![GitHub stars](https://img.shields.io/github/stars/ghc/ghc?style=social&color=white)](https://github.com/ghc/ghc/stargazers)
+### 12. **[Glasgow Haskell Compiler (GHC)](https://github.com/ghc/ghc)** [![GitHub_Stars](https://img.shields.io/github/stars/ghc/ghc?style=social&color=white)](https://github.com/ghc/ghc/stargazers)
 - **License**: BSD-3-Clause
 - **Ecosystem Role**: The premier state-of-the-art native compiler and interactive environment for the purely functional language Haskell.
 - **Scientific Impact**: Widely employed in mathematical computing, type-driven scientific workflows, financial quantitative analysis, category theory implementations, and compiler research.
 
-### 13. **[DifferentialEquations.jl](https://github.com/SciML/DifferentialEquations.jl)** [![GitHub stars](https://img.shields.io/github/stars/SciML/DifferentialEquations.jl?style=social&color=white)](https://github.com/SciML/DifferentialEquations.jl/stargazers)
+### 13. **[DifferentialEquations.jl](https://github.com/SciML/DifferentialEquations.jl)** [![GitHub_Stars](https://img.shields.io/github/stars/SciML/DifferentialEquations.jl?style=social&color=white)](https://github.com/SciML/DifferentialEquations.jl/stargazers)
 - **License**: MIT License
 - **Ecosystem Role**: High-performance multi-paradigm differential equation solver suite written in Julia.
 - **Scientific Impact**: Outperforms classic Fortran/C ODE/DAE suites (Hairer, Sundials) across stiff and non-stiff ordinary differential equations, stochastic differential equations (SDEs), and scientific machine learning (SciML) neural ODE integrations.
 
-### 14. **[SageMath](https://github.com/sagemath/sage)** [![GitHub stars](https://img.shields.io/github/stars/sagemath/sage?style=social&color=white)](https://github.com/sagemath/sage/stargazers)
+### 14. **[SageMath](https://github.com/sagemath/sage)** [![GitHub_Stars](https://img.shields.io/github/stars/sagemath/sage?style=social&color=white)](https://github.com/sagemath/sage/stargazers)
 - **License**: GPL-3.0
 - **Ecosystem Role**: Giant open-source mathematics software system integrating dozens of specialized packages behind a Python interface.
 - **Scientific Impact**: Serves as the open-source alternative to Mathematica, uniting Maxima (calculus), Pari/GP (number theory), GAP (group theory), Singular (polynomials), and NumPy under a single coherent syntax.
 
-### 15. **[R (R-Source)](https://github.com/wch/r-source)** [![GitHub stars](https://img.shields.io/github/stars/wch/r-source?style=social&color=white)](https://github.com/wch/r-source/stargazers)
+### 15. **[R (R-Source)](https://github.com/wch/r-source)** [![GitHub_Stars](https://img.shields.io/github/stars/wch/r-source?style=social&color=white)](https://github.com/wch/r-source/stargazers)
 - **License**: GPL-2.0 / GPL-3.0
 - **Ecosystem Role**: The definitive programming language and environment for statistical computing, data analysis, and publication graphics.
 - **Scientific Impact**: Hosts over 20,000 strictly vetted CRAN packages. Mainstay of academic statistics, bioinformatics (Bioconductor), and pharmaceutical clinical trials via the open Pharmaverse ecosystem (Roche, GSK, Novartis, J&J).
 
-### 16. **[Flang (LLVM Fortran)](https://github.com/flang-compiler/flang)** [![GitHub stars](https://img.shields.io/github/stars/flang-compiler/flang?style=social&color=white)](https://github.com/flang-compiler/flang/stargazers)
+### 16. **[Flang (LLVM Fortran)](https://github.com/flang-compiler/flang)** [![GitHub_Stars](https://img.shields.io/github/stars/flang-compiler/flang?style=social&color=white)](https://github.com/flang-compiler/flang/stargazers)
 - **License**: Apache-2.0 with LLVM Exceptions
 - **Ecosystem Role**: Modern Fortran front-end designed for integration with the LLVM compiler infrastructure.
 - **Scientific Impact**: Modernizes legacy scientific computing and supercomputing codes. Fortran continues to power global climate forecasting models, computational fluid dynamics (CFD), and atomic simulations on top supercomputers.
 
-### 17. **[GNU Octave](https://github.com/gnu-octave/octave)** [![GitHub stars](https://img.shields.io/github/stars/gnu-octave/octave?style=social&color=white)](https://github.com/gnu-octave/octave/stargazers)
+### 17. **[GNU Octave](https://github.com/gnu-octave/octave)** [![GitHub_Stars](https://img.shields.io/github/stars/gnu-octave/octave?style=social&color=white)](https://github.com/gnu-octave/octave/stargazers)
 - **License**: GPL-3.0
 - **Ecosystem Role**: High-level language primarily intended for numerical computations with syntax mostly compatible with MATLAB.
 - **Scientific Impact**: Enables researchers, educators, and engineers to execute MATLAB-syntax m-files and scripts in headless server containers or Linux clusters without proprietary license fees.
 
-### 18. **[LabPlot](https://github.com/KDE/labplot)** [![GitHub stars](https://img.shields.io/github/stars/KDE/labplot?style=social&color=white)](https://github.com/KDE/labplot/stargazers)
+### 18. **[LabPlot](https://github.com/KDE/labplot)** [![GitHub_Stars](https://img.shields.io/github/stars/KDE/labplot?style=social&color=white)](https://github.com/KDE/labplot/stargazers)
 - **License**: GPL-2.0
 - **Ecosystem Role**: KDE-developed interactive data analysis and scientific visualization software.
 - **Scientific Impact**: Serves as a direct open-source alternative to OriginLab Origin. Features native support for Origin project files (`.opju`), non-linear curve fitting, LaTeX rendering, and MQTT/serial live telemetry acquisition.
 
-### 19. **[Maxima](https://github.com/calyau/maxima)** [![GitHub stars](https://img.shields.io/github/stars/calyau/maxima?style=social&color=white)](https://github.com/calyau/maxima/stargazers)
+### 19. **[Maxima](https://github.com/calyau/maxima)** [![GitHub_Stars](https://img.shields.io/github/stars/calyau/maxima?style=social&color=white)](https://github.com/calyau/maxima/stargazers)
 - **License**: GPL-2.0
 - **Ecosystem Role**: Classic computer algebra system written in Common Lisp, descended directly from MIT's DOE-Macsyma (1968).
 - **Scientific Impact**: Robust engine for symbolic manipulation of polynomials, matrices with symbolic entries, calculus, and arbitrary precision rational calculations; acts as a core symbolic computation back-end within SageMath.
@@ -200,7 +200,7 @@ The following repositories represent the open-source foundations of modern techn
 Contributions from researchers, software engineers, and domain specialists are warmly welcomed! 
 
 1. **Fork the Repository** on GitHub.
-2. **Review Formatting**: Follow the existing tabular structure for commercial platforms or bulleted format with social star badges for open-source tools.
+2. **Review Formatting**: Follow the existing tabular structure for commercial platforms or bulleted format with social Stars_Badges for open-source tools.
 3. **Verify Pricing & Licensing**:
    - Provide exact starting tier prices (avoid ambiguous placeholders like "Custom" or "Usage-based").
    - Clearly define free tier limits (duration, storage caps, compute hours).

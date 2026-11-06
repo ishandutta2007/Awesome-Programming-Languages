@@ -182,6 +182,12 @@ The following repositories represent the open-source foundations of modern techn
 
 ---
 
+
+### 20. **[Faber Romanus](https://github.com/faberlang/faber)** [![GitHub_Stars](https://img.shields.io/github/stars/faberlang/faber?style=social&color=white)](https://github.com/faberlang/faber/stargazers)
+- **License**: MIT OR Apache-2.0 (front end, runner, standard library, grammar); official emit targets include closed generators
+- **Ecosystem Role**: Statically typed language for coding agents and human authors; math-oriented operators; tensor shapes in the type; same program reads in eight human languages; emits to Rust, TypeScript, Go, Swift and more.
+- **Scientific Impact**: Aimed at high-performance simulation kernels (including GPU clusters across machines) with `faber check` / stable diagnostics so agent-written numerical code can be rejected before it runs. Experimental through 1.x.
+
 ## 📊 Ecosystem Architectural Comparison
 
 | Dimension | Python (Scientific Stack) | Julia | R (CRAN / Pharmaverse) | MATLAB / Simulink | Wolfram Mathematica |
